@@ -144,7 +144,7 @@ Visit **http://localhost:5173**.
 2. Sign in with the seeded attendee (`user@eventhub.com` / `user1234`), or register a new account, browse events on the home page, and reserve a seat.
 3. Check **My tickets** to see and cancel your reservation.
 
-To create your **own** admin account instead of using the seeded one: on the register page, expand "Registering as an organizer?" and enter the admin invite code. By default this is unset, so set `ADMIN_INVITE_CODE=your_secret_code` in `backend/.env` first, then use that code when registering.
+To create your **own** admin account instead of using the seeded one: on the register page, expand "Registering as an organizer?" and enter the admin invite code. By default this is unset, so set `ADMIN_INVITE_CODE=your_secret_code` in `backend/.env` first, then use the code when registering.
 
 ---
 
